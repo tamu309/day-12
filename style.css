@@ -1,0 +1,41 @@
+body
+{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+h1
+{
+color: brown;
+text-align: center;
+font-size: 100%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: underline;
+}
+p
+{
+    text-align: justify;
+    padding: 0%;
+    font-size: 100%;
+    color: #99a921;
+}
+img
+{
+    padding: 0%;
+    display: block;
+    margin: auto;height:80vh ;
+    width: 60vw;
+    border: 10px #3f1979;
+    border-style: dotted;
+    box-shadow: 10px 26px 59px #db9ddd;
+    
+}
+
+#parents
+{
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}

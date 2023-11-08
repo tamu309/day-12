@@ -1,0 +1,34 @@
+.practiceFlextag1
+{
+    background-color: orangered;
+    color: black;
+    text-align: center;
+}
+
+
+
+.practiceFlextag
+{
+    background-color: darkgoldenrod;
+    flex-direction: row;
+    flex:10px ;
+    display: flex;
+    height: 200%;
+}
+
+.practiceFlextag > div
+{
+
+    background-color: lightblue;
+    color: black;
+    width: 100%;
+    margin: 5%;
+    padding: 2%;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman', 
+    line-height:50% ;
+   
+}
+
+

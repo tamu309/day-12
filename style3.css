@@ -1,0 +1,50 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+h2
+{
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkviolet;
+    text-decoration: underline;
+    text-align: center;
+}
+p
+{
+    font-size: 100%;
+    font-display: 40%;
+    color: red;
+    text-align: justify;
+    text-shadow: 4px #c74949;
+
+}
+
+img
+{
+    height: 80%;
+    width: 40%;
+}
+
+#parents
+{
+   display: flex;
+   justify-content: space-around;
+    align-items: flex-end;
+}
+#parents3
+{
+   display: flex;
+   justify-content: flex-end;
+    align-items: first baseline;
+
+}
+#parents4
+{
+   display: flex;
+   justify-content: flex-start;
+    align-items: center;
+
+}
